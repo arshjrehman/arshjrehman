@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arsh Rehman, working as a software developer, have completed Master of Technology (Computer Science & Engineering) in 2019.
 - 👀 I’m interested in designing and implementing Algorithms.
-- 🌱 I’m currently working on projects which includes following teachnology - SpringBoot, Angular and Machine Learning.
+- 🌱 I’m currently working on projects which includes following teachnology - Python, Microservices and Machine Learning.
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 Reach me on twitter/linkedIn @arshjrehman
 
